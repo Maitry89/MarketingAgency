@@ -49,6 +49,7 @@ body {
 .nav__items {
     display: inline-block;
     margin-right: 25px;
+    padding: 5px 0px;
     font-weight: 500;
     color: #000000;
     cursor: pointer;
